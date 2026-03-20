@@ -22,7 +22,7 @@ export default function SiteFooter() {
 
         {/* Signature pill */}
         <div className="rounded-full bg-zinc-950/70 px-3 py-1 text-xs text-zinc-400">
-          designed with {"\u{1F90D}"} by Lou
+          maintained with {"\u{1F90D}"} by Kanatiko
         </div>
       </div>
     </footer>
