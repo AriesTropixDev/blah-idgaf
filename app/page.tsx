@@ -57,7 +57,7 @@ export default function Page() {
                 <span className="sm:hidden">Disc.</span>
               </Link>
               <Link
-                href="https://discord.gg/K5rBfCaK59"
+                href="https://discord.gg/Jc9WJTkAME"
                 className="rounded-md border border-zinc-800 bg-black/60 px-2.5 py-1.5 text-sm text-zinc-100 transition hover:bg-zinc-900"
               >
                 <span className="hidden sm:inline">Discord</span>
